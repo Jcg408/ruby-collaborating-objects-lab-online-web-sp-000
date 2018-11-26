@@ -1,3 +1,6 @@
+# Need to relate the MP3Importer to Song and Artist.
+
+
 class MP3Importer
 
     attr_accessor :song, :artist, :path
